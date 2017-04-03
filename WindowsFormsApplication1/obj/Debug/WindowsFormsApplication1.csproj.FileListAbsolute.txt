@@ -1,0 +1,69 @@
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.pdb
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My_Pad.Properties.Resources.resources
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+E:\Development\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My_Pad.Properties.Resources.resources
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe
+H:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.pdb
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My_Pad.Properties.Resources.resources
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe
+G:\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.pdb
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.pdb
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My_Pad.Properties.Resources.resources
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+C:\Users\Rashad\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.pdb
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My_Pad.Properties.Resources.resources
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+C:\Users\Eldar\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.pdb
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Find.resources
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My_Pad.Properties.Resources.resources
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Replace.resources
+C:\Users\Eldar\Documents\BMU University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Eldar\Documents\Qafqaz University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My Pad.exe.config
+C:\Users\Eldar\Documents\Qafqaz University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.exe
+C:\Users\Eldar\Documents\Qafqaz University\Modern PL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My Pad.pdb
